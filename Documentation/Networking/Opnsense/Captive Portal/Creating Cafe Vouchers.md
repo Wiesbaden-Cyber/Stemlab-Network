@@ -58,8 +58,8 @@ Ensure that your captive portal is set up and ready to use. Follow the initial s
 1. **Navigate to Services > Vouchers**:
    - Select Vouchers from the Services menu.
 2. **Create a Voucher**:
-   - Set **Validity** to 1 minute.
-   - Set **Expires** to 1 month.
+   - Set **Validity** to 1 month.
+   - Set **Expires** to never or a year or smth.
    - Set **Number of Vouchers** to 25.
    - Name it **Month Pass**.
 3. **Generate the Vouchers**:
